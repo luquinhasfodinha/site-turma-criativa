@@ -11,8 +11,8 @@
     align-items: center;
     padding: 24px 0;
 }  
-.logo{
-    width: 30%;
+.cabeçalho-imagem{
+    width: 10%;
 }
 .listaitem{
     display: inline-block;
@@ -36,5 +36,11 @@
     width: 35%;
 }
 .escola-titulo{
-    
+    padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.escola-icone{
+    width: 24px;
 }
